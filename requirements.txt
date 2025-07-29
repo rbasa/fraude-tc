@@ -1,0 +1,21 @@
+# Core
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+jupyter
+ipykernel
+
+# Clustering y reducción de dimensión
+scipy
+
+# Ley de Benford
+benfordslaw
+
+# Visualización avanzada
+plotly
+
+# Notebook y entorno VSC
+notebook
